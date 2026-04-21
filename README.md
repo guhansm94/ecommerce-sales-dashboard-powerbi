@@ -10,7 +10,7 @@ I created a dashboard to analyze:
 - Orders
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](Capture1.PNG)
 
 ## 📈 Key Metrics
 - Total Sales: $485K
