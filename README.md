@@ -17,11 +17,10 @@ The goal is to transform raw transactional data into actionable insights for bus
 ---
 
 ## 📊 Dashboard Preview
-
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard](dashboard-overview.png)
 
 ## 📈 Detailed Analysis
-![Analysis](images/dashboard-analysis.png)
+![Analysis](dashboard-analysis.png)
 
 ---
 
